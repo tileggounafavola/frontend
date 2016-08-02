@@ -12,18 +12,23 @@ body {
 .fable__title {
   font-family: 'Playfair Display SC', serif;
   font-size: 3rem;
+  margin: auto 1rem;
+  text-align: center;
 }
 
 .fable__image {
   padding: 1rem;
+  max-width: 90%;
 }
 
 .fable__text {
+  margin-top: 1rem;
   line-height: 2.5rem;
   font-size: 1.5rem;
-  width: 50%;
+  width: 90%;
   font-family: 'Fauna One', serif;
   padding: 0;
+  text-align: center;
 }
 
 .fable__text p {
